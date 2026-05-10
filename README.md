@@ -1,2 +1,3 @@
 # SanctuarysGate
-Dive into the Sanctuary's Gate to evade EDR.
+![](Sanctuary's Gate.png)
+
