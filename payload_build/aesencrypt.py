@@ -1,4 +1,4 @@
-# author: Bighound
+
 
 import sys
 from Crypto.Cipher import AES
